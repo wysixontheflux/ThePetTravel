@@ -1,0 +1,19 @@
+name: UHCThePetTravel
+version: 1.0
+author: MartyRRRRR
+main: fr.martyr.Main
+load: STARTUP
+api-version: 1.16
+commands:
+  game:
+    description: Commande principale de la partie.
+  ally:
+    description: Alliance
+    aliases: [alliance]
+  petlocate:
+    description: Locate the pet
+    aliases: [pet]
+  settimer:
+    description: Set timer
+  kit:
+    description: Drop le kit

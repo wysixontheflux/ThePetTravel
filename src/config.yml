@@ -1,0 +1,8 @@
+spawn:
+  world: world
+  location: world, 0, 200, 0, 180, 0
+size: 1000
+regen: false
+autostart: 10
+autostarttime: 30
+slot: 30
